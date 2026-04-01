@@ -52,16 +52,6 @@ The potentiometer provides analog values (0–1023) to control LED brightness us
 
 ---
 
-### 💻 Code
-(To be added)
-
----
-
-### 📷 Circuit
-(To be added)
-
----
-
 ## 🧠 Key Concepts
 - Digital vs Analog signals  
 - digitalRead() vs analogRead()  
